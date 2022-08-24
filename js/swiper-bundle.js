@@ -17,7 +17,7 @@
 })(this, (function () { 'use strict';
 
     /**
-     * SSR Window 4.0.2
+     * SSR Window 4.0.2F
      * Better handling for window object in SSR environment
      * https://github.com/nolimits4web/ssr-window
      *
