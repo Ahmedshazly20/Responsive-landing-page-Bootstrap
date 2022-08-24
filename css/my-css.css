@@ -5,6 +5,7 @@
   --yaeelo--:#ffc400;
   --calmi-white--:#EFF7FA;
 }
+
 body{
   font-family: "Roboto" ,"sans-serif";
   
@@ -161,6 +162,10 @@ nav{
   /* end some stuff  */
 
   /* start Meeting section */
+
+  .swiper-pagination{
+    bottom: 0px;
+  }
 .meeting{
   background-color:var(--calmi-white--);
   padding-top: 100px;
